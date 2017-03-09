@@ -1,5 +1,5 @@
 
-#Navbar Bootstrao para sites OnePage
+#Navbar Bootstrap para sites OnePage
 
 # [Start Bootstrap](http://startbootstrap.com/) - [Scrolling Nav](http://startbootstrap.com/template-overviews/scrolling-nav/)
 
